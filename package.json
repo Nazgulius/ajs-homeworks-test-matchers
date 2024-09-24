@@ -1,5 +1,5 @@
 {
-  "name": "ajs-homeworks-test-pure",
+  "name": "ajs-homeworks-test-matchers",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nazgulius/ajs-homeworks-test-pure.git"
+    "url": "git+https://github.com/Nazgulius/ajs-homeworks-test-matchers.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nazgulius/ajs-homeworks-test-pure/issues"
+    "url": "https://github.com/Nazgulius/ajs-homeworks-test-matchers/issues"
   },
-  "homepage": "https://github.com/Nazgulius/ajs-homeworks-test-pure#readme",
+  "homepage": "https://github.com/Nazgulius/ajs-homeworks-test-matchers#readme",
   "description": "",
   "devDependencies": {
     "@babel/cli": "^7.25.6",
